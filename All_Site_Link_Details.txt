@@ -9,3 +9,9 @@ GitHubReporitory:https://github.com/vinod5009/DevopsDemo.git
 -------------------------------------------------------------
 Added the First my commnit
 
+-----------What command are you using? I am able to create a tar archive of an empty directory just fine:
+
+[jnet@Stan tmp]$ mkdir test
+[jnet@Stan tmp]$ tar -cf test.tar test
+[jnet@Stan tmp]$ ls -lh test.tar 
+-rw-r--r--  1 jnet  wheel    10K Apr 20 21:58 test.tar
